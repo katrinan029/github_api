@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/katrinan029/github_api/issues"
   },
-  "homepage": "https://github.com/katrinan029/github_api#readme"
+  "homepage": "https://github.com/katrinan029/github_api#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
 }
