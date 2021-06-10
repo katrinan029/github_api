@@ -11,3 +11,5 @@ The goal of the application is to:
 
 ## Download app
 To get the app up and running, clone the repo, run `browser-sync start --server --files '.'`
+
+![Screenshot](img/github_api.png)
